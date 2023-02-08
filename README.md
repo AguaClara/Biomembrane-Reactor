@@ -8,7 +8,6 @@ Katrina Chen (kc778)
 Badyn Milstein-Touesnard (bmm98)
 
 ## Team Members:
-Laila Salih (lms388)
 
 Camden Wehrle (cw566)
 
