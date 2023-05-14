@@ -15,6 +15,8 @@ Arron Chang (ac2787)
 
 Alex Van Den Hende (ajv85)
 
+Gina Bae (ghb72)
+
 ## Semester Goals:
 This semester, the team is looking to upscale the biomembrane reactor that is already functioning and continue work on improving the reactor design.
 
