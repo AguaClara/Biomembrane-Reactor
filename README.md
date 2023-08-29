@@ -12,7 +12,7 @@ Camden Wehrle (cw566)
 Gina Bae (ghb72)
 
 ## Semester Goals:
-This semester, the team is looking to upscale the biomembrane reactor that is already functioning and continue work on improving the reactor design.
+This semester, the team is looking to continue hydraulic testing and troubleshooting with a large reactor prototype, with the goal of implementing a fully functioning reactor with enough capacity to handle UASB dumps.
 
 ## Links to Reports and Presentations
 
