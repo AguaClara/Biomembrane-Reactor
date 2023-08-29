@@ -2,18 +2,12 @@
 Biomembrane Reactor is a newly formed subteam for Fall 2022 after splitting from the UASB subteam. It seeks to research and test the use of a biofilm membrane reactor in treating effluent wastewater from the UASB reactor.
 
 ## Research Advisor:
-Katrina Chen (kc778)
-
-## Subteam Lead: 
 Badyn Milstein-Touesnard (bmm98)
 
-## Team Members:
-
+## Subteam Lead: 
 Camden Wehrle (cw566)
 
-Arron Chang (ac2787) 
-
-Alex Van Den Hende (ajv85)
+## Team Members:
 
 Gina Bae (ghb72)
 
@@ -21,6 +15,15 @@ Gina Bae (ghb72)
 This semester, the team is looking to upscale the biomembrane reactor that is already functioning and continue work on improving the reactor design.
 
 ## Links to Reports and Presentations
+
+### Spring 2023
+[Midterm Report](https://docs.google.com/document/d/10qpHPT8OTPrriBpXtx67stCEOdRw2rVvaECQy1gwJyY/edit?usp=drive_link)
+
+[Symposium Slides](https://docs.google.com/presentation/d/1VI3GlJoSPrpSCsKLMM0Kf-AFwNZTDoaruJlvg_IehiY/edit?usp=sharing)
+
+[Final Report](https://docs.google.com/document/d/15SkddcVGkTeNy9w2gBtRJxqMUiTzwU-vPSXilVL-r7s/edit?usp=sharing)
+
+[Final Presentation](https://docs.google.com/presentation/d/1sEGkvlo0_eA57gW13RBFcCT2q_UdDiti189_Wdz5iCc/edit?usp=sharing)
 
 ### Fall 2022
 [Symposium Presentation Recording](https://youtu.be/7c1o9a0hJkE)
