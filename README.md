@@ -11,6 +11,8 @@ Camden Wehrle (cw566)
 
 Gina Bae (ghb72)
 
+Christine Berlingeri (cnb53)
+
 ## Semester Goals:
 This semester, the team is looking to continue hydraulic testing and troubleshooting with a large reactor prototype, with the goal of implementing a fully functioning reactor with enough capacity to handle UASB dumps.
 
