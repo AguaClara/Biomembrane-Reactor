@@ -1,22 +1,27 @@
-# Biomembrane-Reactor
-Biomembrane Reactor is a newly formed subteam for Fall 2022 after splitting from the UASB subteam. It seeks to research and test the use of a biofilm membrane reactor in treating effluent wastewater from the UASB reactor.
+# Membrane Biofilm Reactor
+Membrane Biofilm Reactor (MBFR) is a newly formed subteam for Fall 2022 after splitting from the UASB subteam. It seeks to research and test the use of a biofilm membrane reactor in treating effluent wastewater from the UASB reactor.
 
 ## Research Advisor:
-Badyn Milstein-Touesnard (bmm98)
+Camden Wehrle (cw566)
 
 ## Subteam Lead: 
-Camden Wehrle (cw566)
+Gina Bae (ghb72)
 
 ## Team Members:
 
-Gina Bae (ghb72)
-
 Christine Berlingeri (cnb53)
 
+Caleb Humphreys (cjh343)
+
 ## Semester Goals:
-This semester, the team is looking to continue hydraulic testing and troubleshooting with a large reactor prototype, with the goal of implementing a fully functioning reactor with enough capacity to handle UASB dumps.
+This semester, the team is looking to continue hydraulic testing and troubleshooting with a large reactor prototype, with the goal of increasing oxygen intake to optimize the treatment process and eventually implementing a fully functioning biofilm with enough capacity to handle UASB dumps.
 
 ## Links to Reports and Presentations
+
+### Fall 2023
+[Symposium Slides](https://docs.google.com/presentation/d/1zCsVv0RtuCJ0dnBZ7DywKH6FbT6fbh14u6UqNBN1nuA/edit?usp=sharing)
+
+[Final Report](https://docs.google.com/document/d/13_e8WJyxEp3sqAwcZExElAYW0VgkPOQtxU_issRIM70/edit?usp=sharing)
 
 ### Spring 2023
 [Midterm Report](https://docs.google.com/document/d/10qpHPT8OTPrriBpXtx67stCEOdRw2rVvaECQy1gwJyY/edit?usp=drive_link)
