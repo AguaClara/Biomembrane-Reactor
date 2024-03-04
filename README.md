@@ -13,6 +13,8 @@ Christine Berlingeri (cnb53)
 
 Caleb Humphreys (cjh343)
 
+Ananya Bansal (ab2836)
+
 ## Semester Goals:
 This semester, the team is looking to continue hydraulic testing and troubleshooting with a large reactor prototype, with the goal of increasing oxygen intake to optimize the treatment process and eventually implementing a fully functioning biofilm with enough capacity to handle UASB dumps.
 
