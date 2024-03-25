@@ -21,7 +21,7 @@ This semester, the team is looking to continue hydraulic testing and troubleshoo
 ## Links to Reports and Presentations
 
 ### Spring 2024
-[Symposium Slides](https://docs.google.com/presentation/d/1zCsVv0RtuCJ0dnBZ7DywKH6FbT6fbh14u6UqNBN1nuA/edit?usp=sharing](https://docs.google.com/presentation/d/1aNQ5VKzeZS9Cq8UtkpsQ37Tj0e5Ad9skkWHVbs6nR-k/edit?usp=sharing)
+[Symposium Slides](https://docs.google.com/presentation/d/1aNQ5VKzeZS9Cq8UtkpsQ37Tj0e5Ad9skkWHVbs6nR-k/edit?usp=sharing)
 
 ### Fall 2023
 [Symposium Slides](https://docs.google.com/presentation/d/1zCsVv0RtuCJ0dnBZ7DywKH6FbT6fbh14u6UqNBN1nuA/edit?usp=sharing)
